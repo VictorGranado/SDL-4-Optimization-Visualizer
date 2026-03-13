@@ -93,7 +93,7 @@ This tab helps connect derivative conditions to the geometry of the function.
 This tab explores constrained optimization problems of the form:
 
 
-text{optimize } f(x,y)  g(x,y)=c
+optimize } f(x,y)  g(x,y)=c
 
 
 It plots:
