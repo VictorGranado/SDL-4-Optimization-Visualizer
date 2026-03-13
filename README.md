@@ -72,11 +72,7 @@ This makes it easier to understand how the rate of change depends on direction.
 
 ### 4. Optimization (Critical Points)
 
-This section finds candidate critical points by solving:
-
-\[
-\nabla f = 0
-\]
+This section finds candidate critical.
 
 It then classifies them using the Hessian matrix and its eigenvalues.
 
