@@ -36,7 +36,7 @@ This tab plots a function \(f(x,y)\) in two ways:
 
 This helps visualize the overall shape of the function and makes it easier to identify patterns such as bowls, ridges, and saddles.
 
-📷 *Placeholder — Surface and contour plot screenshot*
+![Alt text](https://github.com/VictorGranado/SDL-4-Optimization-Visualizer/blob/400de97f20c49ae5d9386cd8fb7fe9135b2e52a7/Screenshot%202026-03-12%20181101.png)
 
 ---
 
@@ -50,7 +50,7 @@ It helps explain:
 - the direction of steepest increase
 - how gradients relate to contour lines
 
-📷 *Placeholder — Gradient field and selected point screenshot*
+![Alt text](https://github.com/VictorGranado/SDL-4-Optimization-Visualizer/blob/400de97f20c49ae5d9386cd8fb7fe9135b2e52a7/Screenshot%202026-03-12%20181115.png)
 
 ---
 
@@ -66,7 +66,7 @@ It displays:
 
 This makes it easier to understand how the rate of change depends on direction.
 
-📷 *Placeholder — Directional derivative screenshot*
+![Alt text](https://github.com/VictorGranado/SDL-4-Optimization-Visualizer/blob/400de97f20c49ae5d9386cd8fb7fe9135b2e52a7/Screenshot%202026-03-12%20181122.png)
 
 ---
 
@@ -88,7 +88,7 @@ Possible classifications include:
 
 This tab helps connect derivative conditions to the geometry of the function.
 
-📷 *Placeholder — Critical points and classification screenshot*
+![Alt text](https://github.com/VictorGranado/SDL-4-Optimization-Visualizer/blob/400de97f20c49ae5d9386cd8fb7fe9135b2e52a7/Screenshot%202026-03-12%20181131.png)
 
 ---
 
@@ -108,7 +108,7 @@ It plots:
 
 This provides a visual interpretation of why Lagrange multipliers work.
 
-📷 *Placeholder — Constraint curve and Lagrange multiplier solutions screenshot*
+![Alt text](https://github.com/VictorGranado/SDL-4-Optimization-Visualizer/blob/400de97f20c49ae5d9386cd8fb7fe9135b2e52a7/Screenshot%202026-03-12%20181146.png)
 
 ---
 
@@ -130,7 +130,7 @@ It computes:
 
 This tab is useful for connecting symbolic derivative work with the geometric ideas shown in the other tabs.
 
-📷 *Placeholder — Symbolic derivatives and eigenvalues screenshot*
+![Alt text](https://github.com/VictorGranado/SDL-4-Optimization-Visualizer/blob/400de97f20c49ae5d9386cd8fb7fe9135b2e52a7/Screenshot%202026-03-12%20181155.png)
 
 ---
 
